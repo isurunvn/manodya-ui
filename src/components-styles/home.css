@@ -1,0 +1,27 @@
+.content{
+    margin-left:40vw ;
+
+    padding-top: 20vh;
+    width: 420px;
+}
+.side-nav{
+    width: 20.5vw;
+    float: left;
+}
+.logo-image{
+    width: 400px;
+    height: 220px;
+}
+.userinfo{
+    text-align: center;
+    background-color: #E2E2E2;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 3px;
+}
+.message{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+
+}
